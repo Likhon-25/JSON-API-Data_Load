@@ -37,7 +37,3 @@ const displayPost = (posts) => {
 // loadPost()
 
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Likhon-25/Module-28-JSON-API.git
-git push -u origin main
